@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: stephanie and her smile
-datePublished: '2016-08-20T06:46:11.849Z'
-dateModified: '2016-08-20T06:45:48.424Z'
+datePublished: '2016-08-20T06:47:10.210Z'
+dateModified: '2016-08-20T06:46:20.817Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-20-stephanie-and-her-smile.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-20-stephanie-and-her-smile.md
 url: stephanie-and-her-smile/index.html
 _type: Article
 
