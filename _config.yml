@@ -1,0 +1,28 @@
+name: Merrill Photography
+favicon: null
+layout_spectrum: 0.5016910105478019
+typography_spectrum: 0.44236902496777475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#aeb9bd'
+    - '#181118'
+    - '#403438'
+    - '#7b695c'
+    - '#56071f'
+  brandStrength: 0.6875
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
+purpose: []
